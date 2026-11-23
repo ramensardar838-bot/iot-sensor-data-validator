@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Priyotosh",
+      "password_hash": "b1f60925eaece240099c271c892b3ebb66055e219eb946b1217d3ff5a5451787",
+      "salt": "a9fe0c6f84c519f27609afed4fdcf4cc0bc25fe36ad632b416d2c408cbc6967e",
+      "created_at": "2026-10-28 16:03:06"
+    },
+    {
+      "id": 2,
+      "username": "AlexStudent",
+      "password_hash": "ecd5cbf402942b10c8eb03ee42605618a40c65a93bd59c65fb0c9e84253a606b",
+      "salt": "f857e87a3626941590db56f96136c9aa77eb038e23fc72710cde2dc83529b954",
+      "created_at": "2026-10-28 17:07:47"
+    },
+    {
+      "id": 3,
+      "username": "Alicefboeak",
+      "password_hash": "a1c20ee54f19f6d99762fd52995115bbb9561913e2d9f6f36074f9cbc0ef2fa7",
+      "salt": "d2db05b74adf523bc0589415320f2675c7f2dfd4a2c0c4225ae60f80e9ba7d7e",
+      "created_at": "2026-10-30 07:49:34"
+    },
+    {
+      "id": 4,
+      "username": "Bobtwsvit",
+      "password_hash": "1b0d3c69287add6488202440f11d6d13353fcc74e622479261e934e1cecae640",
+      "salt": "90221a639de05192da7c460400722515638912db5a051ff5f8b8d9c736bf594d",
+      "created_at": "2026-10-30 07:49:36"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "71000717e704c5469b6205dd6a73a7114b65c74ebb6b67d3546059916e91b7ac",
+      "user_id": 1,
+      "created_at": "2026-10-28T16:03:19.199Z",
+      "expires_at": "2026-11-04T16:03:19.198Z"
+    },
+    {
+      "token": "e1af873187f41bf18c5776832378860d08d2db501ffcc3e032473a49f4f35779",
+      "user_id": 1,
+      "created_at": "2026-10-28T16:11:40.530Z",
+      "expires_at": "2026-11-04T16:11:40.530Z"
+    },
+    {
+      "token": "c0430103c18a79ce94ef27af730eeac25debdb314a392c66e5c4720f5799e99c",
+      "user_id": 1,
+      "created_at": "2026-10-28T16:39:22.415Z",
+      "expires_at": "2026-11-04T16:39:22.415Z"
+    },
+    {
+      "token": "db0791b9f65df73489a2284f3e5d12b07381b181a8eacf1f3753280eaf586d9c",
+      "user_id": 1,
+      "created_at": "2026-10-28T16:46:28.093Z",
+      "expires_at": "2026-11-04T16:46:28.093Z"
+    },
+    {
+      "token": "640a435e3d2b97b513f0549b5725a812b3e445d55d5b4073c072849f8f9a5629",
+      "user_id": 1,
+      "created_at": "2026-10-28T17:07:47.347Z",
+      "expires_at": "2026-11-04T17:07:47.347Z"
+    },
+    {
+      "token": "6f2bde3fd0881ca6a5585184963d92e1f5e88398467bdd76f4b73d4829d96eb4",
+      "user_id": 2,
+      "created_at": "2026-10-28T17:07:47.384Z",
+      "expires_at": "2026-11-04T17:07:47.384Z"
+    },
+    {
+      "token": "d84a69e97bc11cd74b77b8518e4b3c398184431e10a33d45f8a2fa5f166c77ca",
+      "user_id": 3,
+      "created_at": "2026-10-30T07:49:34.466Z",
+      "expires_at": "2026-11-06T07:49:34.466Z"
+    },
+    {
+      "token": "14dddcc05e6086fb31362f4878fa14d4993d9ec991f0c1b2d590cfd331964071",
+      "user_id": 4,
+      "created_at": "2026-10-30T07:49:36.125Z",
+      "expires_at": "2026-11-06T07:49:36.125Z"
+    },
+    {
+      "token": "738d98d14ffb60a2a0e3390daf1d78d46a4e510d467df9a1967c98d6e5673c1c",
+      "user_id": 3,
+      "created_at": "2026-10-30T07:49:36.158Z",
+      "expires_at": "2026-11-06T07:49:36.158Z"
+    }
+  ],
+  "history": []
+}

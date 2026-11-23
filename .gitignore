@@ -1,0 +1,24 @@
+# Build files
+build/
+dist/
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment and secret files
+.env*
+!.env.example
+
+# Python files
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
